@@ -167,7 +167,7 @@
     height: 500px;
     margin-left: 515px;
     /* border: 1px solid; */
-    background-image: url(./image.jpg);
+    background-image: url(./images/image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -230,7 +230,7 @@
 .pg2box1img{
     width: 260px;
     height: 260px;
-    background-image: url(./cat-1.jpg);
+    background-image: url(./images/cat-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 30px;
@@ -247,7 +247,7 @@
 .pg2box1img2{
     width: 260px;
     height: 260px;
-    background-image: url(./cat-2.jpg);
+    background-image: url(./images/cat-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 30px;
